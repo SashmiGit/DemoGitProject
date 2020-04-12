@@ -14,4 +14,9 @@ public class App
     public static String sayHello() {
     	return "Hello";
     }
+    
+    public  static String sayHi() {
+    	return "Hi";
+    	
+    }
 }
